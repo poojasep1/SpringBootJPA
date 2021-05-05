@@ -22,7 +22,7 @@ public class StudentController {
 		return studentService.getStudents();
 
 	}
-//	@RequestMapping("/students/{foo}")	
+
 //	public Student getStudent(@PathVariable("foo") int id) {
 
 	@RequestMapping("/students/{id}")   

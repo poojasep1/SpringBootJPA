@@ -32,7 +32,7 @@ public class StudentService {
 	}
 
 	public void addStudent(Student student) {
-@@ -46,17 +46,12 @@ public void addStudent(Student student) {
+ public void addStudent(Student student) {
 	}
 
 	public void updateStudent(Student student, int id) {
